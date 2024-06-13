@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xnileshtiwari
 - 👀 I’m interested in Research & Developing useful applications
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 🌱 I’m currently learning Neural nets
+- 💞️ I’m looking to collaborate on any cool project
 - 📫 How to reach me email: zixboyz0@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm learning all this for fun 😅
