@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @xnileshtiwari<br>👀 I’m interested in Research & Developing useful applications<br>🌱 I’m currently learning Neural nets<br>💞️ I’m looking to collaborate on any cool project<br>📫 How to reach me email: zixboyz0@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm learning all this for fun 😅<br>
+👋 Hi, I’m @xnileshtiwari<br>👀 I’m interested in solving big problems<br>🌱 I’m currently learning Neural nets<br>💞️ I’m looking to collaborate on any cool project<br>📫 How to reach me email: zixboyz0@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Universe is a joke and i'm coding for timepass though some peoples say i'm addicted to it but i don't trust humans<br>
 
 
 ## 🌐 Socials:
