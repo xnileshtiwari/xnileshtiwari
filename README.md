@@ -1,5 +1,9 @@
-# 💫 About Me:
-👋 Hi, I’m @xnileshtiwari<br>👀 I’m interested in solving big problems<br>🌱 I’m currently learning Neural nets<br>💞️ I’m looking to collaborate on any cool project<br>📫 How to reach me email: zixboyz0@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Universe is a joke and i'm coding for timepass though some peoples say i'm addicted to it but i don't trust humans<br>
+# About Me:
+👋 Hi, I’m @xnileshtiwari<br> 
+I’m interested in solving big problems<br>🌱 
+I train big neural nets other than watching cat videos<br>💞️ I’m looking for someone to watch cat videos together <br>📫 
+How to reach me email: zixboyz0@gmail.com<br>
+Fun fact: Universe is a joke and i'm coding for timepass though some peoples say i'm addicted to it. But I don't trust them. You know... humans are pretty bad species when it comes to trust.<br>
 
 
 ## 🌐 Socials:
