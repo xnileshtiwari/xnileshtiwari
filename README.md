@@ -1,9 +1,5 @@
 # About Me:
 👋 Hi, I’m @xnileshtiwari<br> 
-I’m interested in solving big problems<br>🌱 
-I train big neural nets other than watching cat videos<br>💞️ I’m looking for someone to watch cat videos together <br>📫 
-How to reach me email: zixboyz0@gmail.com<br>
-Fun fact: Universe is a joke <br>
 
 
 ## 🌐 Socials:
